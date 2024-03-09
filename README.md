@@ -43,14 +43,6 @@ To contribute to this project or replicate the results, please follow the setup 
 2. **Dataset Preparation**: Download the dataset from the provided link (Note: Add a placeholder or actual link if available).
 3. **Model Training**: Execute the training scripts with the command `python train_model.py` (Note: Adjust according to your actual script names).
 
-## Contributing
-
-We welcome contributions from the community. If you wish to contribute, please follow the guidelines outlined in our contribution policy (Note: Link to contribution guidelines if available).
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details (Note: Adjust according to your project's licensing).
-
 ## Acknowledgments
 
 - Ideal Lab for their support and guidance.
